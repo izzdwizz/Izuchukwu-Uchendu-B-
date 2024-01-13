@@ -6,6 +6,7 @@ This is a mechanism for tracking changes to files across time. It enables severa
 Difference between Git and GitHub:
 
 Git is a distributed version control system that tracks changes to source code during software development.
+
 GitHub: GitHub is a web-based platform that hosts software development projects and serves as a centralized repository for version control using Git. It builds upon Git by providing a web-based graphical interface, issue tracking, and numerous other collaboration capabilities.
 
 GitHub alternatives:
